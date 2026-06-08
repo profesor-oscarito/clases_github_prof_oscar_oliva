@@ -2,6 +2,7 @@
 # La instrucción match permite comparar el valor de una variable contra varios patrones, similar a switch en otros lenguajes.
 # Este ejemplo muestra cómo usar match para identificar el tipo de día según un número.
 # escribiendo desde gibhub
+# Segundo cambio en pgm
 
 from typing import Match #
 
